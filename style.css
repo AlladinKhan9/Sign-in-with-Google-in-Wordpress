@@ -1,0 +1,22 @@
+.google-button-us a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 20px rgba(165, 163, 163, 0.35);
+    border-radius: 10px;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+    padding: 20px 15px;
+}
+
+p.btn-text {margin-bottom: 0;font-size: 22px !important;line-height: 33px !important;color: #3F505D;margin-left: 20px;}
+
+.google-button-us {
+    max-width: 393px;
+    width: 100%;
+}
+
+.google-icon-wrapper .nsl-button-svg-container svg {
+    font-size: 54px;
+}
