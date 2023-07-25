@@ -12,8 +12,9 @@ composer require google/apiclient:^2.12.1
 ```
 require_once 'vendor/autoload.php';
 ```
-
-* Use google_login.php file code in your function file
+```
+Use google_login.php file code in your function file
+```
 
 * How to create google console credential
 
