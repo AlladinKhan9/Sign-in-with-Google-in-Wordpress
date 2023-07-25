@@ -1,5 +1,5 @@
 <div class="google-button-us">
-<a href="<?php echo esc_url($authUrl); ?>">
+    <a href="<?php echo esc_url($authUrl); ?>">
     <div class="google-icon-wrapper">
         <div class="nsl-button-svg-container"><svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24">
                 <path fill="#4285F4" d="M20.64 12.2045c0-.6381-.0573-1.2518-.1636-1.8409H12v3.4814h4.8436c-.2086 1.125-.8427 2.0782-1.7959 2.7164v2.2581h2.9087c1.7018-1.5668 2.6836-3.874 2.6836-6.615z"></path>
@@ -8,6 +8,6 @@
                 <path fill="#EA4335" d="M12 6.5795c1.3214 0 2.5077.4541 3.4405 1.346l2.5813-2.5814C16.4632 3.8918 14.426 3 12 3 8.4818 3 5.4382 5.0168 3.9573 7.9582L6.964 10.29C7.6718 8.1627 9.6559 6.5795 12 6.5795z"></path>
             </svg></div>
     </div>
-    <p class="btn-text"><b>Login with google US</b></p>
-</a>
+        <p class="btn-text"><b>Login with google US</b></p>
+    </a>
 </div>

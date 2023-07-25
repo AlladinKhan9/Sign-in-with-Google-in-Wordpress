@@ -17,7 +17,7 @@ require_once 'vendor/autoload.php';
 Use google_login.php file code in your function file
 ```
 
-
+* Use sign-in-button.php file code to show your button on a page
 
 * How to create google console credential
 
@@ -26,4 +26,6 @@ https://www.wpbeginner.com/plugins/how-to-add-one-click-login-with-google-in-wor
 
 https://developers.google.com/workspace/guides/create-credentials
 ```
+
+
 
