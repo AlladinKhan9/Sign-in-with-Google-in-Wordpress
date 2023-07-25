@@ -1,14 +1,14 @@
 # Sign-in-with-Google-in-Wordpress
 Login with google in wordpress with the user in the exists in wordpress
-```
+
 ### Requirements
 
 * Install Composer in theme
 ```
 composer require google/apiclient:^2.12.1 
-//latest version
 ```
 
+```
 * Copy autoload.php file path and include in your function file.
 ```
 require_once 'vendor/autoload.php';
