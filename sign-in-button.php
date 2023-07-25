@@ -8,6 +8,6 @@
                 <path fill="#EA4335" d="M12 6.5795c1.3214 0 2.5077.4541 3.4405 1.346l2.5813-2.5814C16.4632 3.8918 14.426 3 12 3 8.4818 3 5.4382 5.0168 3.9573 7.9582L6.964 10.29C7.6718 8.1627 9.6559 6.5795 12 6.5795z"></path>
             </svg></div>
     </div>
-        <p class="btn-text"><b>Login with google US</b></p>
+        <p class="btn-text"><b>Login With Google</b></p>
     </a>
 </div>
